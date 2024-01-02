@@ -1,4 +1,4 @@
-# DeepLearningRecive
+# DeepLearningRelapse
 This repository includes Python code developed with Tensorflow 2.0 aiming to support the prediction cancer relapse using tabular data.
 
 Initially, this was used as an open dataset from FOSP: https://fosp.saude.sp.gov.br/
